@@ -154,8 +154,8 @@ redis_port = 6379
 EMAIL_BACKEND = 'django.core.mail.backends.smtp.EmailBackend'
 EMAIL_HOST = 'smtp.exmail.qq.com'
 EMAIL_PORT = 25
-EMAIL_HOST_USER = 'leixiayang@lemeng-inc.com'
-EMAIL_HOST_PASSWORD = 'Yc454578217'
+EMAIL_HOST_USER = '这是邮箱'
+EMAIL_HOST_PASSWORD  =  '这是密码'
 
 # 注册有效期天数
 CONFIRM_DAYS = 7
